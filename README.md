@@ -3,7 +3,7 @@
 ## Brief
 
 Simple phonebook app that has frontend and backend separately. Deployed online here: https://broken-brook-5443.fly.dev/
-Made with Node.js, Express, React and used MongoDB Atlas as database. User can add and remove people as well as update their numbers, and e.g. look how many people there are in total in the phonebook. Includes validation on input fields.
+Made with Node.js, React and used MongoDB Atlas as database. User can add and remove people as well as update their numbers, and e.g. look how many people there are in total in the phonebook. Includes validation on input fields.
 
 ## Guide for running
 
