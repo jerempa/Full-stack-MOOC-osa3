@@ -7,8 +7,8 @@ Made with Node.js, React and used MongoDB Atlas as database. User can add and re
 
 ## Guide for running
 
-To run the program, you need to make a .env file that includes MONGODB_URI='your db link' and also as a recommendation PORT=3001. Running command npm run dev at root directory runs the program in a mode that updates changes by saving file and refreshing page. Program can be accessed through localhost:3001.
+To run the program, you need to make a .env file that includes MONGODB_URI='your db link' and also as a recommendation PORT=3001. After installing libraries (namely nodemon), running command npm run dev at root directory runs the program in a mode that updates changes by saving file and refreshing page. Program can be accessed through localhost:3001.
 
 ## Libraries that require installing
 
-Express, morgan, cors, dotenv, mongoose, axios, react
+Express, nodemon, morgan, cors, dotenv, mongoose, axios, react
